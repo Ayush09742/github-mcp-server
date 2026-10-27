@@ -1,6 +1,6 @@
 # GitHub MCP Server
 
-A Model Context Protocol (MCP) server that exposes GitHub functionality
+A Model Context Protocol (MCP) server that exposes GitHub  functionality
 (repositories, issues, pull requests, file contents, code search, branches,
 commits) as tools for MCP-compatible clients like Claude Code.
 
